@@ -4,9 +4,9 @@ This is a repo for a simple documentation site.
 
 ## Editing
 
-All the content Files are located in the data folder.
-`[[slug]].js` is where all the formatting is handled
-Edit the siteMetaData to get Correct SEO information
+All the content Files are located in the data folder.  
+`[[slug]].js` is where all the formatting is handled  
+Edit the siteMetaData to get Correct SEO information  
 Make sure if you add files you also edit the site maps at the top of slug.js
 
 ## Run Dev
