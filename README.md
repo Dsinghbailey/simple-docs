@@ -1,6 +1,6 @@
 # Simple Docs
 
-This is a repo for a simple documentation site. Used by [namestone docs][https://namestone.xyz/docs]
+This is a repo for a simple documentation site. Used by [namestone docs](https://namestone.xyz/docs)
 
 ## Editing
 
